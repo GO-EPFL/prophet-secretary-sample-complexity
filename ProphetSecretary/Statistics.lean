@@ -1,0 +1,22 @@
+import ProphetSecretary.Statistics.BinaryExperimentTaylor
+import ProphetSecretary.Statistics.EmpiricalCapReach
+import ProphetSecretary.Statistics.EmpiricalPostArrivalError
+import ProphetSecretary.Statistics.FinitePriorFutureConditioning
+import ProphetSecretary.Statistics.FinitePriorValidClass
+import ProphetSecretary.Statistics.FullTrainingObservation
+import ProphetSecretary.Statistics.Hoeffding.MaximumIdentity
+import ProphetSecretary.Statistics.KnownMarginalScalarOptimization
+import ProphetSecretary.Statistics.LateEntranceSize
+import ProphetSecretary.Statistics.NormalizedEmpiricalCapRegret
+import ProphetSecretary.Statistics.OuterLearnerEndpointRules
+import ProphetSecretary.Statistics.ResidualContinuationBound
+import ProphetSecretary.Statistics.RoundingGuaranteeTransfer
+import ProphetSecretary.Statistics.SharpSampleComplexity
+import ProphetSecretary.Statistics.TrainingPosterior
+import ProphetSecretary.Statistics.TrueEntranceSize
+
+/-!
+# Statistics
+
+Empirical optimization, learners, sample bounds and sharp sample complexity.
+-/

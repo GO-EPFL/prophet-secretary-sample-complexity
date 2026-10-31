@@ -1,0 +1,18 @@
+name = "prophetSecretary"
+version = "0.1.0"
+defaultTargets = ["ProphetSecretary"]
+# Lake parallelizes modules; use one Lean worker per compiler process.
+weakLeanArgs = ["-j1"]
+
+[leanOptions]
+autoImplicit = false
+warningAsError = true
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "905b95818eb32af7874a58b427f50c1711a5e96c"
+
+[[lean_lib]]
+name = "ProphetSecretary"
+globs = ["ProphetSecretary.*"]
