@@ -1,7 +1,7 @@
 # Sharp Sample Complexity and Polynomial-Time Learning for Prophet Secretary
 
 [![Lean 4.32.2](https://img.shields.io/badge/Lean-4.32.2-4F46E5?style=for-the-badge&labelColor=172554)](lean-toolchain)
-[![Build and axiom audit](https://img.shields.io/github/actions/workflow/status/GO-EPFL/prophet-secretary-sample-complexity/lean.yml?branch=main&event=push&style=for-the-badge&logo=githubactions&logoColor=white&label=Build%20%2B%20Axiom%20Audit&labelColor=172554)](https://github.com/GO-EPFL/prophet-secretary-sample-complexity/actions/workflows/lean.yml?query=branch%3Amain+event%3Apush)
+[![Build and axiom audit](https://img.shields.io/github/check-runs/GO-EPFL/prophet-secretary-sample-complexity/main?nameFilter=verify&style=for-the-badge&logo=githubactions&logoColor=white&label=Build%20%2B%20Axiom%20Audit&labelColor=172554)](https://github.com/GO-EPFL/prophet-secretary-sample-complexity/actions/workflows/lean.yml?query=branch%3Amain+event%3Apush)
 
 This repository is a Lean formalization of **Sharp Sample Complexity and Polynomial-Time Learning for Prophet Secretary**.
 

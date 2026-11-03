@@ -18,6 +18,7 @@ jobs:
         with:
           auto-config: "false"
           build: "true"
+          use-github-cache: "false"
           use-mathlib-cache: "true"
       - name: Check public imports and axioms
         run: lake env lean --run scripts/CheckAxioms.lean
