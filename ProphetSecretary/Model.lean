@@ -8,6 +8,7 @@ import ProphetSecretary.Model.CanonicalLossMeasurability
 import ProphetSecretary.Model.CanonicalOutcomeContinuity
 import ProphetSecretary.Model.CanonicalWeightNormalization
 import ProphetSecretary.Model.CapHeightValue
+import ProphetSecretary.Model.CappedThresholdFamily
 import ProphetSecretary.Model.ClockEarlySixthLoss
 import ProphetSecretary.Model.ClockPostEarlySixthLoss
 import ProphetSecretary.Model.ClockPostFarLoss
@@ -50,6 +51,9 @@ import ProphetSecretary.Model.OuterTaggedCDF
 import ProphetSecretary.Model.OuterTaggedPolicy
 import ProphetSecretary.Model.OuterUnitMeshGrid
 import ProphetSecretary.Model.PolicyRewardConditioning
+import ProphetSecretary.Model.PositiveArrivalBands
+import ProphetSecretary.Model.PositiveArrivalDuration
+import ProphetSecretary.Model.PositiveArrivalSlope
 import ProphetSecretary.Model.PositiveMappedValuePolicy
 import ProphetSecretary.Model.PositivePremiumTail
 import ProphetSecretary.Model.RankBudgetEquivalence
@@ -62,6 +66,7 @@ import ProphetSecretary.Model.ScalarCurvature
 import ProphetSecretary.Model.ScalarDiameterBoundary
 import ProphetSecretary.Model.ScalarDiameterCountersequence
 import ProphetSecretary.Model.ScalarDiameterScoreContradiction
+import ProphetSecretary.Model.ScalarRatio
 import ProphetSecretary.Model.ScalarSlopeStability
 import ProphetSecretary.Model.ScalarValueWeightLimit
 import ProphetSecretary.Model.ScoreProjection

@@ -8,7 +8,7 @@ import ProphetSecretary.Stability
 import ProphetSecretary.Statistics
 
 /-!
-# Sharp Sample Complexity for the Prophet-Secretary Problem
+# Sharp Sample Complexity and Polynomial-Time Learning for Prophet Secretary
 
 Public import for the complete mathematical development.
 -/
